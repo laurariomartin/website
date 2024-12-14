@@ -2,12 +2,12 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:56286/career/</loc><lastmod>2024-11-03T16:53:49&#43;01:00</lastmod></url><url>
-            <loc>http://localhost:56286/</loc><lastmod>2024-11-03T16:53:49&#43;01:00</lastmod></url><url>
-            <loc>http://localhost:56286/posts/</loc><lastmod>2024-11-03T16:53:49&#43;01:00</lastmod></url><url>
-            <loc>http://localhost:56286/bio/</loc></url><url>
-            <loc>http://localhost:56286/categories/</loc></url><url>
-            <loc>http://localhost:56286/contact/</loc></url><url>
-            <loc>http://localhost:56286/funding/</loc></url><url>
-            <loc>http://localhost:56286/publications/</loc></url><url>
-            <loc>http://localhost:56286/tags/</loc></url></urlset>
+            <loc>http://localhost:56286/website/career/</loc><lastmod>2024-11-03T16:53:49&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:56286/website/</loc><lastmod>2024-11-03T16:53:49&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:56286/website/posts/</loc><lastmod>2024-11-03T16:53:49&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:56286/website/bio/</loc></url><url>
+            <loc>http://localhost:56286/website/categories/</loc></url><url>
+            <loc>http://localhost:56286/website/contact/</loc></url><url>
+            <loc>http://localhost:56286/website/funding/</loc></url><url>
+            <loc>http://localhost:56286/website/publications/</loc></url><url>
+            <loc>http://localhost:56286/website/tags/</loc></url></urlset>
