@@ -7,9 +7,9 @@ baseURL = "http://example.org/"
 title = "Laura del Río Martín"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
-#languageCode = "en-us"
+languageCode = "en-us"
 # language name ["English", "简体中文", "Français", "Polski", ...]
-#languageName = "English"
+languageName = "English"
 
 # Author config
 #[author]
