@@ -12,10 +12,10 @@ languageCode = "en-us"
 languageName = "English"
 
 # Author config
-[author]
-  name = "Laura del Río Martín"
-  email = "laura.del.rio.martin@gmail.com"
-  link = ""
+#[author]
+#  name = "Laura del Río Martín"
+#  email = "laura.del.rio.martin@gmail.com"
+#  link = ""
 
 # Menu config
 [menu]
