@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Laura del Río Martín</title>
-        <link>http://localhost:1313/</link>
+        <link>http://localhost:56286/</link>
         <description>Laura del Río Martín</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 03 Nov 2024 16:53:49 &#43;0100</lastBuildDate>
-            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="http://localhost:56286/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
