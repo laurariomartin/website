@@ -1,0 +1,12 @@
+{{ $icon := .Get 0 }}
+{{ if eq $icon "scopus" }}
+  <img src="/icons/scopus.png" alt="Scopus Icon" style="width: 20px; height: 20px;">
+{{ else if eq $icon "google-scholar" }}
+  <img src="/icons/google_scholar.svg" alt="Google Scholar Icon" style="width: 20px; height: 20px;">
+{{ else if eq $icon "orcid" }}
+  <img src="/icons/orcid.svg" alt="Orcid Icon" style="width: 20px; height: 20px;">
+{{ else if eq $icon "researchgate" }}
+  <img src="/icons/researchgate.png" alt="Research Gate Icon" style="width: 20px; height: 20px;">
+{{ else }}
+  <i class="fa-brands fa-{{ $icon }}"></i>
+{{ end }}
