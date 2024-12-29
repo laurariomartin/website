@@ -3,31 +3,27 @@ title = "Publications"
 slug = "publications"
 +++
 
-### **Peer-reviewed International Journals**
+### **Peer-reviewed International Journals**   review preprint journal file code
 
 1. S. Busto, **L. Río-Martín**.   
    "Semi-implicit hybrid finite volume/finite element method for the GPR model of continuum mechanics". _Journal of Scientific Computing_, Accepted in 2025.
-   {{< paperlinks preprint="https://arxiv.org/abs/2407.00823" review="yes" >}}
-
-1. S. Busto, **L. Río-Martín**.  
-   "Semi-implicit hybrid finite volume/finite element method for the GPR model of continuum mechanics". _Accepted in Journal of Scientific Computing, 2025._  
-   {{< paperlinks preprint="https://arxiv.org/abs/2407.00823" review="yes" >}} 
+   {{< paperlinks preprint="https://arxiv.org/abs/2407.00823">}}
 
 2. J. Bellavita, T. Pasquali, **L. Río-Martín**, F. Vella, G. Guidi.  
 "Popcorn: Accelerating Kernel K-means on GPUs through Sparse Linear Algebra". Under review.
-{{< paperlinks preprint="https://zenodo.org/records/13333015" review="no" >}}
+{{< paperlinks preprint="https://zenodo.org/records/13333015" >}}
 
 3. **L. Río-Martín**, F. Dhaouadi, M. Dumbser.  
 "An exactly curl-free finite-volume/finite-difference scheme for a hyperbolic compressible isentropic two-phase model". Journal of Scientific Computing, 102 (13), 2025.
-{{< paperlinks preprint="https://arxiv.org/abs/2403.18724" review="yes" >}}
+{{< paperlinks preprint="https://arxiv.org/abs/2403.18724" journal="https://link.springer.com/article/10.1007/s10915-024-02733-9" file="SP_TwoFluid.pdf" >}}
 
 4. J. Carbajo, P. Poveda, E. Segovia, A. Prieto, **L. Río-Martín**, J. D. Pastor, J. Ramis.  
 "An Alternative Approach to Determine the Dynamic Stiffness of Resilient Materials under Low Prestatic Load". Applied Sciences, 14 (11), Article n. 4925, 2024.
-{{< paperlinks preprint="https://doi.org/10.3390/app14114925" review="yes" >}}
+{{< paperlinks journal="https://doi.org/10.3390/app14114925" >}}
 
 5. **L. Río-Martín** and A. Prieto.  
 "Data-driven characterization of viscoelastic materials using time-harmonic hydroacoustic measurements". Computers & Structures, Vol. 292, Article n. 107229, 2024.
-{{< paperlinks preprint="https://doi.org/10.1016/j.compstruc.2023.107229" review="yes" >}}
+{{< paperlinks journal="https://doi.org/10.1016/j.compstruc.2023.107229" >}}
 
 6. **L. Río-Martín** and M. Dumbser.  
 "High order ADER Discontinuous Galerkin schemes for a symmetric hyperbolic model of compressible barotropic two-fluid flows". Communications on Applied Mathematics and Computation, Vol. 6, 2119–2154, 2024.
@@ -57,6 +53,8 @@ slug = "publications"
 "A non-parametric fluid-equivalent approach for the acoustic characterization of rigid porous materials". Applied Mathematical Modelling, Vol. 76, Pages 330–347, 2019.
 {{< paperlinks preprint="https://doi.org/10.1016/j.apm.2019.05.046" review="yes" >}}
 
+<br> <!-- Add vertical space here -->
+
 ### **Monographs**
 1. **L. Río-Martín**. 
 "Numerical characterization of complex materials and vibro-acoustic systems" {{< attach \"LauradelRioMartin_PhD_2020.pdf\" >}}  
@@ -67,6 +65,8 @@ Ph.D. thesis. University of A Coruña, 2020.
 "Acoustic characterization of an absorbing tile by using incident plane waves" {{< attach \"LauradelRioMartin_TFM_2015.pdf\" >}}  
 Master thesis. University of Santiago de Compostela, 2015.
 
+<br> <!-- Add vertical space here -->
+
 ### **Proceedings**
 1. J. Carbajo, P. Poveda, **L. Río-Martín**, et al.
 "Determination of dynamic stiffness of materials used under floating floors using electrodynamic actuators". Proceedings from 53rd Congreso Español de Acústica, 2022.
@@ -75,6 +75,8 @@ Link.
 2. **L. Río-Martín**, A. Prieto, et al.
 "Data-driven characterization of porous materials using frequency-dependent measurements". Proceedings from 48th Congreso Español de Acústica, 2017.
 Link.
+
+<br> <!-- Add vertical space here -->
 
 ### **Forthcoming**
 1. **L. Río-Martín** and M. Dumbser.

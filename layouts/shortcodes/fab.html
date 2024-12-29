@@ -7,6 +7,8 @@
   <img src="orcid.svg" alt="Orcid Icon" style="width: 20px; height: 20px;">
 {{ else if eq $icon "researchgate" }}
   <img src="researchgate.png" alt="Research Gate Icon" style="width: 20px; height: 20px;">
+{{ else if eq $icon "dblp" }}
+  <img src="dblp.png" alt="dblp Icon" style="width: 20px; height: 20px;">
 {{ else }}
   <i class="fa-brands fa-{{ $icon }}"></i>
 {{ end }}
