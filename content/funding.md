@@ -51,7 +51,7 @@ math = "true"
 {{< funding 
     year="2018" 
 	project="Winner of the mobility grant 'Axudas para estadías predoutorais Inditex-UDC'"
-    rentity="Inditex and University of A Coruña (Spain)"
+    entity="Inditex and University of A Coruña (Spain)"
     grant="4305 €"
 >}}
 </table>
