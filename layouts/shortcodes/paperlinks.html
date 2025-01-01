@@ -12,11 +12,24 @@
 <a href="{{ .Get "journal" }}" target="blank"><i class="fa-solid fa-arrow-up-right-from-square"></i> <strong> journal </strong></a> &nbsp;
 {{ end }}
 
-{{ if .Get "file" }}
-<a href="{{ .Get "file" }}" target="blank" style="color:#FF0000;">
+{{ if .Get "accepted" }}
+<a href="{{ .Get "accepted" }}" target="blank" style="color:#FF0000;">
     <i class="far fa-file-pdf"></i> <strong> Accepted Copy </strong>
 </a>
 {{ end }}
+
+{{ if .Get "manuscript" }}
+<a href="{{ .Get "manuscript" }}" target="blank" style="color:#FF0000;">
+    <strong> Manuscript copy </strong> <i class="far fa-file-pdf"></i>
+</a>
+{{ end }}
+
+{{ if .Get "proceedings" }}
+<a href="{{ .Get "proceedings" }}" target="blank" style="color:#FF0000;">
+    <strong> Paper copy </strong> <i class="far fa-file-pdf"></i>
+</a>
+{{ end }}
+
 {{ if .Get "code" }}
 &nbsp; 
 <a href="{{ .Get "code" }}" target="blank" style="color:#b649d6;">

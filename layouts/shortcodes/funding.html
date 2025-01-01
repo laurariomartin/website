@@ -1,17 +1,20 @@
 <tr>
-    <td style="vertical-align: top; white-space: nowrap; font-weight: bold;">
-        {{ .Get "year" }}
-    </td>
     <td>
-        <p style="font-weight: bold; text-transform: uppercase;">{{ .Get "title" }}</p>
+        <p style="font-weight: bold;">{{ .Get "project" }}</p>
         {{ with .Get "role" }}
             <p><strong>Role:</strong> {{ . }}</p>
         {{ end }}
-        {{ with .Get "project" }}
-            <p><strong>Project:</strong> {{ . }}</p>
-        {{ end }}
         {{ with .Get "grant" }}
             <p><strong>Value of the grant:</strong> {{ . }}</p>
+        {{ end }}
+		{{ with .Get "name" }}
+            <p><strong>Grant name:</strong> {{ . }}</p>
+        {{ end }}
+		{{ with .Get "entity" }}
+            <p><strong>Financing entity:</strong> {{ . }}</p>
+        {{ end }}		
+		{{ with .Get "year" }}
+            <p><strong>Year:</strong> {{ . }}</p>
         {{ end }}
     </td>
 </tr>

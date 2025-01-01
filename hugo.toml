@@ -37,6 +37,14 @@ languageName = "English"
     title = ""
   [[menu.main]]
     weight = 3
+    identifier = "teaching"
+    pre = ""
+    post = ""
+    name = "Teaching"
+    url = "/teaching/"
+    title = "Teaching"
+  [[menu.main]]
+    weight = 4
     identifier = "fundings"
     pre = ""
     post = ""
@@ -44,7 +52,7 @@ languageName = "English"
     url = "/funding/"
     title = "Fundraising and research projects"
   [[menu.main]]
-    weight = 4
+    weight = 5
     identifier = "contact"
     pre = ""
     post = ""
